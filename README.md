@@ -26,7 +26,7 @@ A scalable social network platform built with **ASP.NET Core** and **SQL Server*
 ### 2. [Food Order API](https://github.com/novosel2/foodorderapi)
 A service designed to handle food orders, product storage and management using **SQL Server** **ASP.NET Core**.
 
-### 3. [Personal Blog API](https://github.com/novosel/personalblogapi)
+### 3. [Personal Blog API](https://github.com/novosel2/personalblogapi)
 A simple API for managing personal blogs. It allows users to create, read, update, and delete blog posts.
 
 ## 📈 GitHub Stats
