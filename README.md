@@ -31,7 +31,7 @@ A simple API for managing personal blogs. It allows users to create, read, updat
 
 ## 📈 GitHub Stats
 
-![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 <!--## 💬 Let's Connect!
 
