@@ -1,6 +1,7 @@
 # Hi, I'm Mateo Novosel 👋
+# Backend Developer
 
-Welcome to my GitHub profile! I'm a passionate backend developer focused on building scalable, efficient, and secure applications. With expertise in **ASP.NET**, **SQL Server**, and **Redis**.
+I'm a passionate backend developer focused on building scalable, efficient, and secure applications. With expertise in **ASP.NET**, **SQL Server**, and **Redis**.
 
 ## 🚀 Technologies & Tools
 
