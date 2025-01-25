@@ -33,7 +33,7 @@ A simple API for managing personal blogs. It allows users to create, read, updat
 <br />
 <hr />
 
-[![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=novosel2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats-peach-tau.vercel.app?user=novosel2&theme=radical&border_radius=3&card_width=467)](https://git.io/streak-stats)
+[![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=novosel2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats-peach-tau.vercel.app?user=novosel2&theme=radical&border_radius=3&card_width=467)](https://git.io/streak-stats)
 
 <!--
 **novosel2/novosel2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
