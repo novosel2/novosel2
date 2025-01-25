@@ -29,20 +29,15 @@ A service designed to handle food orders, product storage and management using *
 
 ### 3. [Personal Blog API](https://github.com/novosel2/personalblogapi)
 A simple API for managing personal blogs. It allows users to create, read, update, and delete blog posts.
-<!--
-## 📈 GitHub Stats
 
-![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
+### ⚡ Activity Graph:
+[![Mateo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=novosel2&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 💬 Let's Connect!
+### 📊 GitHub Stats:
+[![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=novosel2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- [LinkedIn](https://www.linkedin.com/in/mateo-novosel/)
-- [Personal Website](#)
-- [Twitter](#)
-
----
-
-Thanks for stopping by! Feel free to check out my repositories or reach out if you want to collaborate on an exciting project. 😊
+### 🔥 Streak Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=novosel2&theme=radical)](https://git.io/streak-stats)
 
 <!--
 **novosel2/novosel2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
