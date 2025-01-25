@@ -34,7 +34,7 @@ A simple API for managing personal blogs. It allows users to create, read, updat
 [![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=novosel2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔥 Streak Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milkoviicc&" alt="milkoviicc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novosel2&" alt="novosel2" /></p>
 
 <!--
 **novosel2/novosel2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
