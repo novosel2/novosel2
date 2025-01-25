@@ -33,7 +33,7 @@ A simple API for managing personal blogs. It allows users to create, read, updat
 ### 📊 GitHub Stats:
 [![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=novosel2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔥 Streak Stats:
+<!--### 🔥 Streak Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=novosel2)](https://git.io/streak-stats)
 
 <!--
