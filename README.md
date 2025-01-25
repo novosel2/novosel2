@@ -1,7 +1,7 @@
 # Hi, I'm Mateo Novosel 👋
 ### Backend Developer
 
-I'm a dedicated backend developer focused on building scalable, efficient, and secure applications. With expertise in **ASP.NET Core**, **SQL Server**, and **Redis**.
+I'm a dedicated backend developer focused on building web applications. With expertise in **ASP.NET Core**, **SQL Server**, and **Redis**.
 
 ## 🚀 Technologies & Tools
 
