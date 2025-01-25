@@ -30,9 +30,6 @@ A service designed to handle food orders, product storage and management using *
 ### 3. [Personal Blog API](https://github.com/novosel2/personalblogapi)
 A simple API for managing personal blogs. It allows users to create, read, update, and delete blog posts.
 
-### ⚡ Activity Graph:
-[![Mateo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=novosel2&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### 📊 GitHub Stats:
 [![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=novosel2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
