@@ -1,9 +1,9 @@
-# Hi, I'm Mateo Novosel 👋
+# Hi, I'm Mateo Novosel
 ### Backend Developer
 
 I'm a dedicated backend developer focused on building web applications. With expertise in **ASP.NET Core**, **SQL Server**, and **Redis**.
 
-## 🚀 Technologies & Tools
+## Technologies & Tools
 
 - **Languages**: C#, JavaScript, SQL
 - **Frameworks**: ASP.NET Core, Entity Framework, Vue.js
@@ -11,13 +11,13 @@ I'm a dedicated backend developer focused on building web applications. With exp
 - **DevOps**: Docker, Azure App Services
 - **Version Control**: Git, GitHub
 
-## 🌱 What I'm currently working on
+## What I'm currently working on
 
 - Building a **social network app** with user management, real-time updates and scalable storage solutions.
 <!--- Enhancing my skills with **cloud technologies** and **microservices architecture**.-->
 - Experimenting with **UI/UX** to improve API design and interaction.
 
-## 💼 Projects
+## Projects
 
 Here are some of the projects I've worked on:
 
