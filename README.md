@@ -1,7 +1,7 @@
 # Hi, I'm Mateo Novosel
 ### Backend Developer
 
-I'm a dedicated backend developer focused on building web applications. With expertise in **ASP.NET Core**, **SQL Server**, and **Redis**.
+I'm a dedicated backend developer focused on building web applications. With expertise in **ASP.NET Core**, **SQL Server**, and **PostgreSQL**.
 
 ## Technologies & Tools
 
@@ -22,7 +22,7 @@ I'm a dedicated backend developer focused on building web applications. With exp
 Here are some of the projects I've worked on:
 
 ### 1. [Social Network API](https://github.com/novosel2/snetapi)
-A scalable social network platform built with **ASP.NET Core** and **SQL Server**. Features include real-time updates, user management, and media handling with Azure Blob Storage.
+A scalable social network platform built with **ASP.NET Core** and **PostgreSQL**. Features include real-time updates, user management, and media handling with Azure Blob Storage.
 
 ### 2. [Food Order API](https://github.com/novosel2/foodorderapi)
 A service designed to handle food orders, product storage and management using **SQL Server** **ASP.NET Core**.
