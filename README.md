@@ -19,8 +19,6 @@ I'm a dedicated backend developer focused on building web applications. With exp
 
 ## Projects
 
-Here are some of the projects I've worked on:
-
 ### 1. [Social Network API](https://github.com/novosel2/snetapi)
 A scalable social network platform built with **ASP.NET Core** and **PostgreSQL**. Features include real-time updates, user management, and media handling with Azure Blob Storage.
 
