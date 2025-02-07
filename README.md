@@ -6,7 +6,7 @@ I'm a dedicated backend developer focused on building web applications. With exp
 ## Technologies & Tools
 
 - **Languages**: C#, JavaScript, SQL
-- **Frameworks**: ASP.NET Core, Entity Framework, Vue.js
+- **Frameworks**: ASP.NET Core, Vue.js
 - **Databases**: SQL Server, Redis
 - **DevOps**: Docker, Azure App Services
 - **Version Control**: Git, GitHub
