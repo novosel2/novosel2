@@ -13,7 +13,7 @@ I'm a dedicated backend developer focused on building web applications. With exp
 
 ## What I'm currently working on
 
-- Building a **social network app** with user management, real-time updates and scalable storage solutions.
+- Building a **MUD web application** with user management, real-time communication, dungeon instances and parties.
 <!--- Enhancing my skills with **cloud technologies** and **microservices architecture**.-->
 - Experimenting with **UI/UX** to improve API design and interaction.
 
