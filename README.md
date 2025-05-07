@@ -20,7 +20,7 @@ I'm a dedicated backend developer focused on building web applications. With exp
 ## Projects
 
 ### 1. [Social Network API](https://github.com/novosel2/snetapi)
-A scalable social network platform built with **ASP.NET Core** and **PostgreSQL**. Features include real-time updates, user management, and media handling with Azure Blob Storage.
+A scalable social network platform built with **ASP.NET Core** and **PostgreSQL**. Features include real-time updates, user management, and media handling with Azure Blob Storage. <a href="https://zavrsni-snet.vercel.app" target="_blank">Try it here</a>
 
 ### 2. [Food Order API](https://github.com/novosel2/foodorderapi)
 A service designed to handle food orders, product storage and management using **SQL Server** **ASP.NET Core**.
