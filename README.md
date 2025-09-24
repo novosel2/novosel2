@@ -13,9 +13,9 @@ I'm a dedicated backend developer focused on building web applications. With exp
 
 ## What I'm currently working on
 
-- Building a **MUD web application** with user management, real-time communication, dungeon instances and parties.
-<!--- Enhancing my skills with **cloud technologies** and **microservices architecture**.-->
 - Currently working on a fullstack legal platform as an intern.
+- Looking for a job :D
+<!--- Enhancing my skills with **cloud technologies** and **microservices architecture**.-->
 
 ## Projects
 
