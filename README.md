@@ -22,11 +22,11 @@ I'm a dedicated backend developer focused on building web applications. With exp
 ### 1. [Social Network API](https://github.com/novosel2/snetapi)
 A scalable social network platform built with **ASP.NET Core** and **PostgreSQL**. Features include real-time updates, user management, and media handling with Azure Blob Storage. <a href="https://zavrsni-snet.vercel.app" target="_blank">Try it here</a>
 
-### 2. [Food Order API](https://github.com/novosel2/foodorderapi)
-A service designed to handle food orders, product storage and management using **SQL Server** **ASP.NET Core**.
+### 2. [Law Picker App](https://github.com/novosel2/lawpicker-app)
+A comprehensive web application for searching, accessing, and downloading European Union legal documents. Built with Vue.js frontend and ASP.NET Core Web API backend, fully containerized with Docker.
 
-### 3. [Personal Blog API](https://github.com/novosel2/personalblogapi)
-A simple API for managing personal blogs. It allows users to create, read, update, and delete blog posts.
+### 3. [Food Order API](https://github.com/novosel2/foodorderapi)
+A service designed to handle food orders, product storage and management using **SQL Server** **ASP.NET Core**.
 
 <br />
 <hr />
