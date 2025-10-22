@@ -13,7 +13,6 @@ I'm a dedicated backend developer focused on building web applications. With exp
 
 ## What I'm currently working on
 
-- Currently working on a fullstack legal platform as an intern.
 - Looking for a job :D
 <!--- Enhancing my skills with **cloud technologies** and **microservices architecture**.-->
 
