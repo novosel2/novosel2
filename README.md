@@ -13,7 +13,7 @@ I'm a dedicated backend developer focused on building web applications. With exp
 
 ## What I'm currently working on
 
-- Looking for a job :D
+- Learning and experimenting with Go
 <!--- Enhancing my skills with **cloud technologies** and **microservices architecture**.-->
 
 ## Projects
