@@ -26,11 +26,11 @@ A comprehensive web application for searching, accessing, and downloading Europe
 
 ### 3. [Food Order API](https://github.com/novosel2/foodorderapi)
 A service designed to handle food orders, product storage and management using **SQL Server** **ASP.NET Core**.
-
+<!--
 <br />
 <hr />
 
-&nbsp;&nbsp;[![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=novosel2&show_icons=true&theme=radical&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats-peach-tau.vercel.app?user=novosel2&theme=radical&border_radius=0&card_width=364)](https://git.io/streak-stats)
+&nbsp;&nbsp;[![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=novosel2&show_icons=true&theme=radical&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats-peach-tau.vercel.app?user=novosel2&theme=radical&border_radius=0&card_width=364)](https://git.io/streak-stats)-->
 
 <!--
 **novosel2/novosel2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
