@@ -18,9 +18,6 @@ A scalable social network platform built with **ASP.NET Core** and **PostgreSQL*
 
 ### 2. [Law Picker App](https://github.com/novosel2/lawpicker-app)
 A comprehensive web application for searching, accessing, and downloading European Union legal documents. Built with Vue.js frontend and ASP.NET Core Web API backend, fully containerized with Docker.
-
-### 3. [Food Order API](https://github.com/novosel2/foodorderapi)
-A service designed to handle food orders, product storage and management using **SQL Server** **ASP.NET Core**.
 <!--
 <br />
 <hr />
