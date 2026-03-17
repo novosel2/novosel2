@@ -11,11 +11,6 @@ I'm a dedicated backend developer focused on building web applications. With exp
 - **DevOps**: Azure App Services
 - **Version Control**: Git, GitHub
 
-## What I'm currently working on
-
-- Learning and experimenting with Go
-<!--- Enhancing my skills with **cloud technologies** and **microservices architecture**.-->
-
 ## Projects
 
 ### 1. [Social Network API](https://github.com/novosel2/snetapi)
